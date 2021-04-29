@@ -37,6 +37,8 @@ Installation:
 
   > ./bob.py -v &
   > ./alice -v
+  # HL modifies to work:
+  > ./bob.py -v & ./alice.py -v
 
 
 Windows Users: Use Python X,Y for easy install.
